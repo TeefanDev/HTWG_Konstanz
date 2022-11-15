@@ -1,0 +1,20 @@
+Alle Messungen wurden mit dem Schnitt aus sechs Laufzeitmessungen berechnet
+und einer Teilfeldgröße von kleiner 50, für welche insertionSort arbeitet.
+
+Hybrides QuickSort
+100k-zufällig: 140ms
+200k-zufällig: 322ms
+100k-sortiert: 531ms
+200k-sortiert: 647ms
+
+Hybrides Quicksort mit 3-Median
+100k-zufällig: 248ms
+200k-zufällig: 473ms
+100k-sortiert: 530ms
+200k-sortiert: 640ms
+
+Arrays.sort
+100k-zufällig: 99ms
+200k-zufällig: 257ms
+100k-sortiert: 21ms
+200k-sortiert: 36ms
